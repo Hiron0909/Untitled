@@ -3,6 +3,7 @@ Port: 3389
 User: Administrator
 Password: HivMZ7kXmwWF6SyBw8oz
 Hiron@263
+net user administrator newspass
 
 
 Top Survey
